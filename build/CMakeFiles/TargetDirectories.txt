@@ -1,0 +1,3 @@
+/home/hey/Append/comac/keyboard/build/CMakeFiles/rebuild_cache.dir
+/home/hey/Append/comac/keyboard/build/CMakeFiles/keyboard.dir
+/home/hey/Append/comac/keyboard/build/CMakeFiles/edit_cache.dir
